@@ -8,7 +8,7 @@ col1, col2, col3 = st.columns([2, 1, 2])
 
 with col2:
     # Bạn có thể thay link URL bằng tên file ảnh nếu đã tải về máy ("logo_ute.png")
-    st.image("https://wikimedia.org", use_container_width=True)
+    st.image("lgo_UTE.jfif", use_container_width=True)
 
 st.write("### Chào mừng bạn đến với project Khoa học Màu sắc của mình!")
 st.write("# Mình tên là HOÀNG ĐÔNG, MSSV 23458005")
